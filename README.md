@@ -51,7 +51,7 @@ Minha experiência prática concentra-se no **Backend** (PHP/Laravel) e na **Pro
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" title="Notion" height="30"/>
 <img src="https://img.shields.io/badge/Scrum-3D4A80?style=flat-square&logo=Scrum%20Alliance&logoColor=white" alt="Scrum" title="Scrum" height="30"/>
 <img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Kanban" title="Kanban" height="30"/>
-<img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" alt="MS Office" title="MS Office" height="30"/>
+<img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" alt=" Office" title=" Office" height="30"/>
 </p>
 
 <br/>
