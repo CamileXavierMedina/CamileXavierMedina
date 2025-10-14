@@ -10,6 +10,11 @@ Minha experiência prática concentra-se no **Backend** (PHP/Laravel) e na **Pro
 
 ### 🔗 Contatos Profissionais
 
+<p align="left">
+    <a href="https://www.linkedin.com/in/camile-medina">
+        <img alt="LinkedIn" title="Conecte-se no LinkedIn" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+    </a>
+</p>
 
 ---
 
@@ -29,24 +34,40 @@ Minha experiência prática concentra-se no **Backend** (PHP/Laravel) e na **Pro
 <br/>
 <br/>
 
+---
+
 ### 🛠️ Ferramentas e Metodologias
 
 <p align="left">
-<img align="left" alt="Git" title="Git (Controle de Versão e Colaboração)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img align="left" alt="Figma" title="Figma (Prototipação de Interfaces e UX)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-<img align="left" alt="Notion" title="Notion (Gestão Ágil de Projetos)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" title="Git" height="30"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" title="Figma" height="30"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" title="Notion" height="30"/>
+<img src="https://img.shields.io/badge/Scrum-3D4A80?style=flat-square&logo=Scrum%20Alliance&logoColor=white" alt="Scrum" title="Scrum" height="30"/>
+<img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Kanban" title="Kanban" height="30"/>
+<img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" alt="MS Office" title="MS Office" height="30"/>
 </p>
 
 <br/>
 <br/>
----
-###🏅 Certificações de Inovação e Colaboração
-
 
 ---
+
+### 🏅 Certificações de Inovação e Colaboração
+
+<p align="left">
+    <a href="https://docs.google.com/document/d/1Dih0KJp5dSAaCZE6Ddc79lx77Lxxae8sR-hTfInVQVY/edit?usp=sharing">
+        <img 
+            src="https://img.shields.io/badge/Acessar%20Certificados-3D9970?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=2C7C5F" 
+            alt="Link para o Google Docs com os certificados" 
+            title="Clique para ver os certificados (NASA, Ideathon, Instrutora)"
+        />
+    </a>
+    <br>
+    *Clique no botão acima para ver todas as comprovações (NASA Space Apps Challenge, Ideathon e Instrutora UCB).*
+</p>
 
 ### Informações Comprovadas pelos Certificados:
 
 * **NASA Space Apps Challenge 2025:** Participação como Galactic Problem Solver nos dias 4 e 5 de outubro de 2025, em um desafio internacional focado em problemas da Terra e do espaço.
 * **Ideathon (CRA-DF):** Participação no Ideathon - Pitch de Negócios no dia 12 de setembro de 2024, demonstrando foco em viabilidade de projeto.
-* **Instrutora (UCB):** Atuei como instrutora no Projeto Alfabetização Cidadã Digital (de 23 de agosto a 03 de dezembro de 2024), totalizando 45 horas. Ministrei aulas sobre MS Word, MS Excel, MS Power Point e Internet, comprovando comunicação didática.
+* **Instrutora (UCB):** Atuou como instrutor(a) no Projeto Alfabetização Cidadã Digital (de 23 de agosto a 03 de dezembro de 2024), totalizando 45 horas. Ministrou aulas sobre MS Word, MS Excel, MS Power Point e Internet, comprovando comunicação didática.
