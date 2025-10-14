@@ -1,2 +1,2 @@
-## 🙋🏾‍♀️ Camile Medina
+## 👩🏾‍💻 Camile Medina
 
