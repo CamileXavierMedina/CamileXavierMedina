@@ -14,6 +14,13 @@ Minha experiência prática concentra-se no **Backend** (PHP/Laravel) e na **Pro
     <a href="https://www.linkedin.com/in/camile-medina">
         <img alt="LinkedIn" title="Conecte-se no LinkedIn" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
     </a>
+    <a href="mailto:camile.medina25@gmail.com">
+        <img 
+            alt="Email" 
+            title="Entre em contato por Email" 
+            src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
 </p>
 
 ---
