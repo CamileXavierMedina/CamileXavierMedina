@@ -78,3 +78,4 @@ Minha experiência prática concentra-se no **Backend** (PHP/Laravel) e na **Pro
 * **NASA Space Apps Challenge 2025:** Participação como Galactic Problem Solver nos dias 4 e 5 de outubro de 2025, em um desafio internacional focado em problemas da Terra e do espaço.
 * **Ideathon (CRA-DF):** Participação no Ideathon - Pitch de Negócios no dia 12 de setembro de 2024, demonstrando foco em viabilidade de projeto.
 * **Instrutora (UCB):** Atuei como instrutora no Projeto Alfabetização Cidadã Digital (de 23 de agosto a 03 de dezembro de 2024), totalizando 45 horas. Ministrei aulas sobre MS Word, MS Excel, MS Power Point e Internet, comprovando comunicação didática.
+* **ISO/IEC 25010(ALISON.CURSOS):** Curso nivel beginner sobre as Q'AS.
