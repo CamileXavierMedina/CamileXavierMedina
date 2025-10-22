@@ -46,7 +46,7 @@ Minha experiência prática concentra-se no **Backend** (PHP/Laravel) e na **Pro
 ### 🛠️ Ferramentas e Metodologias
 
 <p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" title="Git" height="30"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Gitlab" title="Git" height="30"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" title="Figma" height="30"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" title="Notion" height="30"/>
 <img src="https://img.shields.io/badge/Scrum-3D4A80?style=flat-square&logo=Scrum%20Alliance&logoColor=white" alt="Scrum" title="Scrum" height="30"/>
@@ -75,7 +75,7 @@ Minha experiência prática concentra-se no **Backend** (PHP/Laravel) e na **Pro
 
 ### Informações Comprovadas pelos Certificados:
 
-* **NASA Space Apps Challenge 2025:** Participação como Galactic Problem Solver nos dias 4 e 5 de outubro de 2025, em um desafio internacional focado em problemas da Terra e do espaço.
+* **NASA Space Apps Challenge 2025:** Participação como Galactic Problem Solver nos dias 4 e 5 de outubro de 2025, em um desafio internacional focado em problemas da Terra e do espaço, campeões top 10 nacionais.
 * **Ideathon (CRA-DF):** Participação no Ideathon - Pitch de Negócios no dia 12 de setembro de 2024, demonstrando foco em viabilidade de projeto.
 * **Instrutora (UCB):** Atuei como instrutora no Projeto Alfabetização Cidadã Digital (de 23 de agosto a 03 de dezembro de 2024), totalizando 45 horas. Ministrei aulas sobre MS Word, MS Excel, MS Power Point e Internet, comprovando comunicação didática.
 * **ISO/IEC 25010(ALISON.CURSOS):** Curso nivel beginner sobre as Q'AS.
