@@ -1,14 +1,14 @@
 # 👩🏻‍💻 Camile Xavier Medina
 
-**`Desenvolvedora Full Stack & Analista de Soluções`**
+**`Desenvolvedora Full Stack | Backend & Cloud Enthusiast`**
 
 Me chamo Camile Xavier Medina, sou de Brasília e atualmente estou cursando **Análise e Desenvolvimento de Sistemas** no UniCEUB. Sou apaixonada por tecnologia e busco constantemente aplicar minha **lógica de programação** para solucionar problemas complexos.
 
-Minha experiência prática concentra-se no **Backend** (PHP/Laravel) e na **Prototipação de Interfaces (Figma)**, com o objetivo de construir soluções completas e focadas na experiência do usuário. Sou proativa e colaborativa, características que aprimorei em competições como o Hackathon da NASA e o Ideathon.
+Com quase **8 meses de experiência focada em Backend**, domino arquiteturas robustas e integração de APIs. Atualmente, expando meus horizontes para o ecossistema **Cloud (Azure)**, **Desenvolvimento Mobile no Android Studio** e implementação de **Soluções de Inteligência Artificial**.
 
 ---
 
-### 🔗 Contatos Profissionais
+### Contatos Profissionais
 
 <p align="left">
     <a href="https://www.linkedin.com/in/camile-medina">
@@ -25,57 +25,56 @@ Minha experiência prática concentra-se no **Backend** (PHP/Laravel) e na **Pro
 
 ---
 
-### 💻 Stack de Desenvolvimento
+### Stack de Desenvolvimento
 
-*Linguagens e Frameworks que utilizo:*
+**Backend & Mobile:**
 <p align="left">
+<img align="left" alt="C#" title="C#" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
+<img align="left" alt=".NET" title=".NET" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"/>
 <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-<img align="left" alt="Laravel" title="Laravel (Conhecimento)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
+<img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
+<img align="left" alt="Android" title="Android Development" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"/>
+<img align="left" alt="Python" title="Python & AI" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+</p>
+<br/><br/>
+
+**Bancos de Dados & Cloud:**
+<p align="left">
+<img align="left" alt="Azure" title="Microsoft Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
+<img align="left" alt="SQL Server" title="Microsoft SQL Server" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
+<img align="left" alt="Oracle" title="Oracle DB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
+<img align="left" alt="MariaDB" title="MariaDB" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg"/>
+</p>
+<br/><br/>
+
+**Inteligência Artificial & Frontend:**
+<p align="left">
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="Python" title="Python (Básico)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="C++" title="C++ (Base Lógica)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 </p>
-
-<br/>
-<br/>
+<br/><br/>
 
 ---
 
-### 🛠️ Ferramentas e Metodologias
+### Ferramentas e IDEs
 
 <p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Gitlab" title="Git" height="30"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" title="Figma" height="30"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" title="Notion" height="30"/>
-<img src="https://img.shields.io/badge/Scrum-3D4A80?style=flat-square&logo=Scrum%20Alliance&logoColor=white" alt="Scrum" title="Scrum" height="30"/>
-<img src="https://img.shields.io/badge/Kanban-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Kanban" title="Kanban" height="30"/>
-<img src="https://img.shields.io/badge/MS%20Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" alt=" Office" title=" Office" height="30"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio" height="30"/>
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android Studio" height="30"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" height="30"/>
+<img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure Cloud" height="30"/>
 </p>
-
-<br/>
-<br/>
 
 ---
 
-### 🏅 Certificações de Inovação e Colaboração
+### Formação e Especializações
 
-<p align="left">
-    <a href="https://docs.google.com/document/d/1Dih0KJp5dSAaCZE6Ddc79lx77Lxxae8sR-hTfInVQVY/edit?usp=sharing">
-        <img 
-            src="https://img.shields.io/badge/Acessar%20Certificados-3D9970?style=for-the-badge&logo=googledocs&logoColor=white&labelColor=2C7C5F" 
-            alt="Link para o Google Docs com os certificados" 
-            title="Clique para ver os certificados (NASA, Ideathon, Instrutora)"
-        />
-    </a>
-    <br>
-    *Clique no botão acima para ver todas as comprovações (NASA Space Apps Challenge, Ideathon e Instrutora UCB).*
-</p>
+* 🤖 **Soluções de IA (GitHub):** Pesquisa e aplicação prática de modelos de IA integrados a sistemas de software.
+* 🏆 **Top 10 Nacional - NASA Space Apps Challenge 2025:** Reconhecida como *Galactic Problem Solver* em nível nacional.
+* 📱 **Mobile & Cloud:** Prática ativa em **Android Studio** e exploração de serviços em nuvem na plataforma **Azure**.
+* 📊 **Gestão de Dados:** Experiência com bancos de dados relacionais de nível enterprise (**Oracle, SQL Server**) e open-source (**MariaDB**).
+* 📜 **Qualidade de Software:** Formação na norma **ISO/IEC 25010** (Qualidade de Produto de Software).
+* 👩‍🏫 **Instrutora de Tecnologia (UCB):** Alfabetização digital e capacitação técnica (45h).
 
-### Informações Comprovadas pelos Certificados:
-
-* **NASA Space Apps Challenge 2025:** Participação como Galactic Problem Solver nos dias 4 e 5 de outubro de 2025, em um desafio internacional focado em problemas da Terra e do espaço, campeões top 10 nacionais.
-* **Ideathon (CRA-DF):** Participação no Ideathon - Pitch de Negócios no dia 12 de setembro de 2024, demonstrando foco em viabilidade de projeto.
-* **Instrutora (UCB):** Atuei como instrutora no Projeto Alfabetização Cidadã Digital (de 23 de agosto a 03 de dezembro de 2024), totalizando 45 horas. Ministrei aulas sobre MS Word, MS Excel, MS Power Point e Internet, comprovando comunicação didática.
-* **ISO/IEC 25010(ALISON.CURSOS):** Curso nivel beginner sobre as Q'AS.
+---
