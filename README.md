@@ -4,7 +4,7 @@
 
 Me chamo Camile Xavier Medina, sou de Brasília e atualmente estou cursando **Análise e Desenvolvimento de Sistemas** no UniCEUB. Sou apaixonada por tecnologia e busco constantemente aplicar minha **lógica de programação** para solucionar problemas complexos.
 
-Com quase **12 meses de experiência focada em Backend**, domino arquiteturas robustas e integração de APIs. Atualmente, expando meus horizontes para o ecossistema **Cloud (Azure)**, **Desenvolvimento Mobile no Android Studio** e implementação de **Soluções de Inteligência Artificial**.
+Com **1 ano de experiência focada em Backend**, domino arquiteturas robustas e integração de APIs. Atualmente, expando meus horizontes para o ecossistema **Cloud (Azure)**, **Desenvolvimento Mobile no Android Studio** e implementação de **Soluções de Inteligência Artificial**.
 
 ---
 
