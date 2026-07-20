@@ -1,12 +1,10 @@
 # Camile Xavier Medina
-
 **Backend & Database Engineer**
 
-Me chamo Camile Xavier Medina, sou de Brasília e atualmente estou cursando **Análise e Desenvolvimento de Sistemas** no UniCEUB. Sou apaixonada por tecnologia e busco constantemente aplicar minha **lógica de programação** para solucionar problemas complexos.
+# Sobre Mim
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no **UniCEUB**, com experiência prática no desenvolvimento de sistemas corporativos robustos, arquitetura de bancos de dados e integridade de dados em ambientes corporativos de alta criticidade, como a **Infraero** e o **Hospital das Forças Armadas (HFA)**.
 
-Com **1 ano de experiência focada em Backend**, domino arquiteturas robustas e integração de APIs. Atualmente, expando meus horizontes para o ecossistema **Cloud (Azure)**, **Desenvolvimento Mobile no Android Studio** e implementação de **Soluções de Inteligência Artificial**.
-
----
+Meu foco profissional está na resolução de problemas complexos de lógica, otimização de consultas de alta volumetria e construção de fluxos seguros de dados. Tenho sólida vivência projetando, consumindo e documentando APIs REST/SOAP, além de realizar processos de higienização de dados (Data Cleaning) e migrações estruturais de bancos relacionais legados para ambientes de missão crítica.
 
 ### Contatos Profissionais
 
