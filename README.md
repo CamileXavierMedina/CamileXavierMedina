@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Camile Xavier Medina
+# Camile Xavier Medina
 
-**`Desenvolvedora Full Stack | Backend & Cloud Enthusiast`**
+**Backend & Database Engineer**
 
 Me chamo Camile Xavier Medina, sou de Brasília e atualmente estou cursando **Análise e Desenvolvimento de Sistemas** no UniCEUB. Sou apaixonada por tecnologia e busco constantemente aplicar minha **lógica de programação** para solucionar problemas complexos.
 
